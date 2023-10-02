@@ -1,18 +1,9 @@
 [
     {
-      "color": "B00000",
-      "dopname": "#1",
+      "color": "DA0043C8",
+      "dopname": "| MOBILE",
       "maxonline": 1000,
-      "name": "NEW REAL CITY RP | SERVER #1",
-      "online": "0",
-      "colorr": "B00000"
-    },
-    {
-      "color": "B00000",
-      "dopname": "#1",
-      "maxonline": 1000,
-      "name": "NEW REAL CITY RP | SERVER #2",
-      "online": "0",
-      "colorr": "B00000"
+      "name":"NEW REAL CITY",
+      "online": 1
     }
   ]
