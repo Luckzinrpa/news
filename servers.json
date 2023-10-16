@@ -5,5 +5,12 @@
       "maxonline": 1000,
       "name":"NEW REAL CITY",
       "online": 1
+    },
+    {
+      "color": "DA0043C8",
+      "dopname": "| MOBILE",
+      "maxonline": 1000,
+      "name":"NEW REAL CITY",
+      "online": 1
     }
   ]
